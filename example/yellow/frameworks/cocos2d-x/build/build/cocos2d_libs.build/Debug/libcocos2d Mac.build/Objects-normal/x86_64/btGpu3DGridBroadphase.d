@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.cpp \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuDefines.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedDefs.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletMultiThreaded/btGpuUtilsSharedCode.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuickprof.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCache.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedDefs.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedTypes.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphase.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btSimpleBroadphase.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btGpu3DGridBroadphaseSharedCode.h

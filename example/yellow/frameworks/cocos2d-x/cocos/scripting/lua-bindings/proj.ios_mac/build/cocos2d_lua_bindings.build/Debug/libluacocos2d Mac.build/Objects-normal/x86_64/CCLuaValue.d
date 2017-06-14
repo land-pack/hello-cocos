@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/manual/CCLuaValue.cpp \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../scripting/lua-bindings/manual/CCLuaValue.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/lua.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../../external/lua/luajit/include/luaconf.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccTypes.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCGeometry.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformMacros.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccConfig.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformConfig.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCPlatformDefine.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCPlatformDefine-mac.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccMacros.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCConsole.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/CCRef.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCStdC.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCStdC-mac.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../base/ccRandom.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMath.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/CCMathBase.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec2.inl \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec3.inl \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Vec4.inl \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Mat4.inl \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../math/Quaternion.inl \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/CCGL.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.ios_mac/../../../platform/mac/CCGL-mac.h

@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/cocos/base/CCDataVisitor.cpp \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/mac/CCPlatformDefine-mac.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCBool.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/CCDataVisitor.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCInteger.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/CCConsole.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/ccMacros.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/mac/CCStdC-mac.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/ccRandom.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/platform/CCCommon.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCFloat.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCDouble.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCString.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCArray.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/ccCArray.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/ccUTF8.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCDictionary.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/base/uthash.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../cocos/deprecated/CCSet.h

@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/PosixThreadSupport.cpp \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/PosixThreadSupport.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btScalar.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/PlatformDefinitions.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMinMax.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/vmInclude.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/vectormath_aos.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/vecidx_aos.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/floatInVec.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/boolInVec.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/vec_aos.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/quat_aos.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/vectormath/sse/mat_aos.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/PpuAddressSpace.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedObjectArray.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btAlignedAllocator.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/btThreadSupportInterface.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuCollisionTaskProcess.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/external/bullet/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionDispatch/btCollisionObject.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btTransform.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMatrix3x3.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btVector3.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuaternion.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btQuadWord.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/LinearMath/btMotionState.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionShape.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btConvexShape.h \
+  /Users/landpack/frank/git/hello-cocos/example/yellow/frameworks/cocos2d-x/build/../external/bullet/BulletCollision//CollisionShapes/btCollisionMargin.h
